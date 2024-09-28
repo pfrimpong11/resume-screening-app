@@ -1,5 +1,4 @@
 numpy
-re
 pickle5
 nltk
 streamlit
