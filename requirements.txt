@@ -1,5 +1,4 @@
 numpy
-pickle5
 nltk
 streamlit
 PyPDF2
